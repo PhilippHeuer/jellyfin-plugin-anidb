@@ -1,0 +1,21 @@
+[
+  {
+    "guid": "e6be09fc-5fe5-4a7e-8a47-e58b4afaca21",
+    "name": "AniDB",
+    "description": "AniDB metadata provider\n",
+    "overview": "AniDB metadata provider",
+    "owner": "philippheuer",
+    "category": "Anime",
+    "imageUrl": "https://repo.jellyfin.org/releases/plugin/images/jellyfin-plugin-anidb.png",
+    "versions": [
+      {
+        "version": "11.0.0.0",
+        "changelog": "- Jellyfin 10.11 support (#78) @crobibero",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://raw.githubusercontent.com/PhilippHeuer/jellyfin-plugin-anidb/refs/heads/master/builds/anidb_11.0.0.0.zip",
+        "checksum": "a2f72d58622b43de7e00a747f0f57a3f",
+        "timestamp": "2025-12-16T01:24:26Z"
+      }
+    ]
+  }
+]

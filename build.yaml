@@ -1,10 +1,10 @@
 name: "AniDB"
-guid: "a2b2a7ed-aa28-4521-a64a-63d86901f246"
+guid: "e6be09fc-5fe5-4a7e-8a47-e58b4afaca21"
 imageUrl: https://repo.jellyfin.org/releases/plugin/images/jellyfin-plugin-anidb.png
 version: 11
 targetAbi: "10.11.0.0"
 framework: "net9.0"
-owner: "jellyfin"
+owner: "philippheuer"
 overview: "AniDB metadata provider"
 description: >
   AniDB metadata provider
@@ -14,3 +14,4 @@ artifacts:
   - "Jellyfin.Plugin.AniDB.dll"
 changelog: |-
   - Jellyfin 10.11 support (#78) @crobibero
+  - AniDB Path Lookup - ASS Compatible
